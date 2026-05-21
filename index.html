@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lexicon — English Vocabulary Builder</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app">
+    <header class="app-header">
+      <div class="header-top">
+        <div class="logo">
+          <span class="logo-icon" aria-hidden="true">📚</span>
+          <h1>Lexicon</h1>
+        </div>
+        <button class="theme-toggle" id="theme-toggle-btn" aria-label="Toggle light or dark theme" title="Toggle theme">
+          <span class="theme-toggle-icon" id="theme-icon">🌙</span>
+        </button>
+      </div>
+      <p class="tagline">Master English vocabulary, one word at a time</p>
+    </header>
+
+    <nav class="nav-tabs" role="tablist">
+      <button class="tab-btn active" id="tab-learn" role="tab" aria-selected="true" aria-controls="learn-panel" data-tab="learn">Learn</button>
+      <button class="tab-btn" id="tab-quiz" role="tab" aria-selected="false" aria-controls="quiz-panel" data-tab="quiz">Quiz</button>
+    </nav>
+
+    <!-- Learn Tab -->
+    <section class="tab-panel active" id="learn-panel" role="tabpanel" aria-labelledby="tab-learn">
+      <div class="controls-bar">
+        <div class="search-box">
+          <input type="text" id="search-input" placeholder="Search words or meanings..." autocomplete="off" aria-label="Search vocabulary words">
+          <span class="search-icon" aria-hidden="true">🔍</span>
+        </div>
+        <select id="category-filter" class="category-select" aria-label="Filter words by category">
+          <option value="all">All Categories</option>
+          <option value="academic">Academic</option>
+          <option value="business">Business</option>
+          <option value="literary">Literary</option>
+          <option value="science">Science</option>
+          <option value="emotional">Emotional</option>
+          <option value="social">Social</option>
+        </select>
+      </div>
+
+      <div class="progress-bar-container">
+        <div class="progress-bar">
+          <div class="progress-fill" id="learn-progress" style="width: 0%;"></div>
+        </div>
+        <span class="progress-text" id="learn-progress-text">0 / 20 words viewed</span>
+      </div>
+
+      <!-- No Results State -->
+      <div class="no-results-card" id="no-results-card" style="display: none;">
+        <span class="no-results-icon" role="img" aria-label="No results found">🔍❌</span>
+        <h3>No matching words found</h3>
+        <p>Try adjusting your search query or choosing another category.</p>
+        <button class="btn btn-secondary" id="reset-filters-btn">Clear Search & Filters</button>
+      </div>
+
+      <!-- 3D Flipping Card Container -->
+      <div class="card-container" id="card-container">
+        <div class="word-card" id="word-card" tabindex="0" role="button" aria-label="Vocabulary card. Click or press Enter or Space to flip and reveal details.">
+          <!-- Card Front -->
+          <div class="card-face card-front">
+            <div class="card-face-content">
+              <div class="card-header">
+                <span class="difficulty-badge" id="difficulty-badge">Intermediate</span>
+                <span class="category-badge" id="category-badge">Academic</span>
+              </div>
+              <h2 class="word-title" id="word-title">Serendipity</h2>
+              <p class="pronunciation" id="pronunciation">/ˌser.ənˈdɪp.ə.ti/</p>
+              <div class="flip-hint">
+                <span class="flip-icon">✨</span> Tap or click card to reveal meaning
+              </div>
+            </div>
+          </div>
+          <!-- Card Back -->
+          <div class="card-face card-back">
+            <div class="card-face-content">
+              <div class="card-header">
+                <span class="difficulty-badge" id="difficulty-badge-back">Intermediate</span>
+                <span class="category-badge" id="category-badge-back">Academic</span>
+              </div>
+              <h2 class="word-title-back" id="word-title-back">Serendipity</h2>
+              <div class="card-details">
+                <p class="meaning" id="meaning">The occurrence of events by chance in a happy or beneficial way</p>
+                <div class="example-box" id="example-box">
+                  <span class="example-label">Example</span>
+                  <p class="example" id="example">"Finding my favorite book at a garage sale was pure serendipity."</p>
+                </div>
+              </div>
+              <div class="flip-back-hint">
+                <span>🔄 Tap to view front</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card-actions" id="card-actions">
+        <button class="btn btn-secondary" id="shuffle-btn" aria-label="Show a random word">
+          <span>🔀</span> Shuffle
+        </button>
+        <button class="btn btn-primary" id="next-btn" aria-label="Show next word">
+          <span>→</span> Next Word
+        </button>
+      </div>
+
+      <div class="stats-row">
+        <div class="stat-box" tabindex="0">
+          <span class="stat-number" id="words-seen">0</span>
+          <span class="stat-label">Words Seen</span>
+        </div>
+        <div class="stat-box" tabindex="0">
+          <span class="stat-number" id="words-total">20</span>
+          <span class="stat-label">Total Words</span>
+        </div>
+        <div class="stat-box" tabindex="0">
+          <span class="stat-number" id="categories-count">6</span>
+          <span class="stat-label">Categories</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Quiz Tab -->
+    <section class="tab-panel" id="quiz-panel" role="tabpanel" aria-labelledby="tab-quiz">
+      <!-- Active Quiz View -->
+      <div id="quiz-active-view">
+        <div class="quiz-header">
+          <div class="score-display">
+            <span class="score-label">Current Score</span>
+            <span class="score-value" id="quiz-score">0</span>
+          </div>
+          <div class="quiz-progress">
+            <span class="quiz-progress-text" id="quiz-progress-text">Question 1 / 10</span>
+          </div>
+        </div>
+
+        <div class="quiz-card" id="quiz-card">
+          <div class="quiz-question">
+            <p class="quiz-prompt">What is the meaning of:</p>
+            <h2 class="quiz-word" id="quiz-word">Serendipity</h2>
+          </div>
+          <div class="quiz-options" id="quiz-options">
+            <!-- Options generated by JS -->
+          </div>
+          <div class="quiz-feedback" id="quiz-feedback" aria-live="polite">
+            <!-- Feedback generated by JS -->
+          </div>
+        </div>
+
+        <div class="quiz-actions" id="quiz-actions-container">
+          <button class="btn btn-primary" id="quiz-next-btn" disabled>Next Question →</button>
+        </div>
+      </div>
+
+      <!-- Quiz Completed View -->
+      <div id="quiz-complete-view" class="quiz-complete-card" style="display: none;">
+        <div class="quiz-complete-header">
+          <span class="celebration-icon" role="img" aria-label="Celebration trophy">🏆</span>
+          <h2>Quiz Completed!</h2>
+          <div class="score-ring-container">
+            <div class="score-stats">
+              <span class="score-pct" id="complete-score-pct">0%</span>
+              <span class="score-fraction" id="complete-score-fraction">0 / 10 correct</span>
+            </div>
+          </div>
+          <p class="quiz-feedback-msg" id="quiz-feedback-msg">Outstanding job! You have excellent recall.</p>
+        </div>
+
+        <!-- Missed Questions List -->
+        <div class="missed-questions-section" id="missed-questions-section">
+          <h3>Review Missed Words</h3>
+          <div class="missed-words-list" id="missed-words-list">
+            <!-- Missed words rendered dynamically by JS -->
+          </div>
+        </div>
+
+        <!-- Completion Actions -->
+        <div class="quiz-complete-actions">
+          <button class="btn btn-secondary" id="retake-missed-btn">
+            <span>🔄</span> Practice Missed
+          </button>
+          <button class="btn btn-primary" id="quiz-restart-btn">
+            <span>✨</span> Restart Full Quiz
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <footer class="app-footer">
+      <p>Built with 💙 for learning • No internet required</p>
+    </footer>
+  </div>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
