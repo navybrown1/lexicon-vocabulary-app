@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Lexicon — English Vocabulary Builder</title>
   <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet" />
 </head>
 <body>
   <div class="app">
@@ -24,6 +25,7 @@
     <nav class="nav-tabs" role="tablist">
       <button class="tab-btn active" id="tab-learn" role="tab" aria-selected="true" aria-controls="learn-panel" data-tab="learn">Learn</button>
       <button class="tab-btn" id="tab-quiz" role="tab" aria-selected="false" aria-controls="quiz-panel" data-tab="quiz">Quiz</button>
+      <button class="tab-btn" id="tab-progress" role="tab" aria-selected="false" aria-controls="progress-panel" data-tab="progress">Progress</button>
     </nav>
 
     <!-- Learn Tab -->
@@ -53,7 +55,10 @@
 
       <!-- No Results State -->
       <div class="no-results-card" id="no-results-card" style="display: none;">
-        <span class="no-results-icon" role="img" aria-label="No results found">🔍❌</span>
+        <div class="lexi-img-wrapper animate-float" id="no-results-mascot" style="width: 80px; height: 80px; margin-bottom: 0.5rem; cursor: pointer; position: relative;">
+          <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuCNlDRJa2JIfEki3KB1yfyB_Wq8-cspaRU5O6-QhPCvIqGgCUmVNOoBUZlxMM3gowHPMSPXd-JuK1pgMUNkgKcfM-MM4fCninWPw3s4WKvpCkEeravQQ-DjIG_rAWvT7ceh3AJKvU30EAcsDPlistMVHoTHWceHlngsJP2GJymEMa979ajfNKbaVtzSm7hs1uTyQI8i9eEB6uvIbN5kFcWAp1eZhjozdvKymUDqI8MnLzN_yHFum9LPgsUlHXW_v5Esd0HDoKEw_s-6" alt="Mascot Lexi" />
+          <div class="particle-container" id="no-results-particle-container"></div>
+        </div>
         <h3>No matching words found</h3>
         <p>Try adjusting your search query or choosing another category.</p>
         <button class="btn btn-secondary" id="reset-filters-btn">Clear Search & Filters</button>
@@ -186,6 +191,121 @@
           <button class="btn btn-primary" id="quiz-restart-btn">
             <span>✨</span> Restart Full Quiz
           </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- Progress Tab -->
+    <section class="tab-panel" id="progress-panel" role="tabpanel" aria-labelledby="tab-progress">
+      <!-- Hero Streak Section -->
+      <div class="streak-hero">
+        <div class="absolute inset-0 opacity-10 bg-[radial-gradient(circle_at_center,_var(--tw-gradient-stops))] from-primary via-background to-background"></div>
+        <h2>Daily Streak</h2>
+        <div class="streak-badge-container">
+          <span class="material-symbols-outlined streak-badge-icon" style="font-variation-settings: 'FILL' 1;">local_fire_department</span>
+          <span class="streak-number" id="progress-streak-count">12</span>
+        </div>
+        <p>You're on fire! Keep learning every day to grow your streak and unlock special rewards.</p>
+      </div>
+
+      <div class="progress-bento-grid">
+        <!-- Weekly Activity Chart -->
+        <div class="progress-bento-card">
+          <h3>Weekly Activity</h3>
+          <div class="weekly-chart" id="weekly-chart">
+            <div class="weekly-bar-col">
+              <div class="weekly-bar" style="height: 40%;" title="Monday" id="bar-mon"></div>
+              <span class="weekly-day" id="day-mon">M</span>
+            </div>
+            <div class="weekly-bar-col">
+              <div class="weekly-bar" style="height: 60%;" title="Tuesday" id="bar-tue"></div>
+              <span class="weekly-day" id="day-tue">T</span>
+            </div>
+            <div class="weekly-bar-col">
+              <div class="weekly-bar" style="height: 30%;" title="Wednesday" id="bar-wed"></div>
+              <span class="weekly-day" id="day-wed">W</span>
+            </div>
+            <div class="weekly-bar-col">
+              <div class="weekly-bar" style="height: 80%;" title="Thursday" id="bar-thu"></div>
+              <span class="weekly-day" id="day-thu">T</span>
+            </div>
+            <div class="weekly-bar-col">
+              <div class="weekly-bar today" style="height: 100%;" title="Friday - Today" id="bar-fri"></div>
+              <span class="weekly-day today" id="day-fri">F</span>
+            </div>
+            <div class="weekly-bar-col">
+              <div class="weekly-bar empty" style="height: 10%;" title="Saturday" id="bar-sat"></div>
+              <span class="weekly-day" id="day-sat">S</span>
+            </div>
+            <div class="weekly-bar-col">
+              <div class="weekly-bar empty" style="height: 10%;" title="Sunday" id="bar-sun"></div>
+              <span class="weekly-day" id="day-sun">S</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Badges Bento Card -->
+        <div class="progress-bento-card">
+          <div class="badges-bento-header">
+            <h3>Badges</h3>
+            <span class="badges-count" id="badges-unlocked-count">3 / 6</span>
+          </div>
+          <div class="badges-grid">
+            <!-- Unlocked Badge 1 -->
+            <div class="badge-item" id="badge-novice" tabindex="0" role="button" aria-label="Novice badge unlocked. View details.">
+              <div class="badge-icon-wrapper">
+                <span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1;">star</span>
+              </div>
+              <span class="badge-name">Novice</span>
+            </div>
+            <!-- Unlocked Badge 2 -->
+            <div class="badge-item" id="badge-fast-learner" tabindex="0" role="button" aria-label="Fast Learner badge unlocked. View details.">
+              <div class="badge-icon-wrapper">
+                <span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1;">bolt</span>
+              </div>
+              <span class="badge-name">Fast Learner</span>
+            </div>
+            <!-- Unlocked Badge 3 -->
+            <div class="badge-item" id="badge-scholar" tabindex="0" role="button" aria-label="Scholar badge unlocked. View details.">
+              <div class="badge-icon-wrapper">
+                <span class="material-symbols-outlined" style="font-variation-settings: 'FILL' 1;">school</span>
+              </div>
+              <span class="badge-name">Scholar</span>
+            </div>
+            <!-- Locked Badge 4 -->
+            <div class="badge-item locked" id="badge-champion" aria-label="Champion badge locked.">
+              <div class="badge-icon-wrapper">
+                <span class="material-symbols-outlined">trophy</span>
+              </div>
+              <span class="badge-name">Champion</span>
+            </div>
+            <!-- Locked Badge 5 -->
+            <div class="badge-item locked" id="badge-polyglot" aria-label="Polyglot badge locked.">
+              <div class="badge-icon-wrapper">
+                <span class="material-symbols-outlined">language</span>
+              </div>
+              <span class="badge-name">Polyglot</span>
+            </div>
+            <!-- Locked Badge 6 -->
+            <div class="badge-item locked" id="badge-master" aria-label="Master badge locked.">
+              <div class="badge-icon-wrapper">
+                <span class="material-symbols-outlined">workspace_premium</span>
+              </div>
+              <span class="badge-name">Master</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Mascot Message -->
+      <div class="mascot-card animate-container-pulse" id="mascot-interactive-trigger">
+        <div class="lexi-img-wrapper animate-float" id="mascot-img-container">
+          <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuCNlDRJa2JIfEki3KB1yfyB_Wq8-cspaRU5O6-QhPCvIqGgCUmVNOoBUZlxMM3gowHPMSPXd-JuK1pgMUNkgKcfM-MM4fCninWPw3s4WKvpCkEeravQQ-DjIG_rAWvT7ceh3AJKvU30EAcsDPlistMVHoTHWceHlngsJP2GJymEMa979ajfNKbaVtzSm7hs1uTyQI8i9eEB6uvIbN5kFcWAp1eZhjozdvKymUDqI8MnLzN_yHFum9LPgsUlHXW_v5Esd0HDoKEw_s-6" alt="Mascot Lexi, a cute cartoon robot with glowing blue eyes" />
+          <div class="particle-container" id="lexi-particle-container"></div>
+        </div>
+        <div class="mascot-speech">
+          <span class="mascot-title">Lexi says:</span>
+          <span class="mascot-text" id="mascot-speech-text">"You're doing amazing! Click me to feel the joy of learning! Let's conquer vocabulary together!"</span>
         </div>
       </div>
     </section>

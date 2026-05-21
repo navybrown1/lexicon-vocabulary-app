@@ -4764,7 +4764,7 @@
     "example": "The term 'fecund' was utilized in the scholarly report.",
     "category": "academic",
     "difficulty": "intermediate",
-    "pronunciation": "/ˈfɛ.kənd/"
+    "pronunciation": "/ˈfiː.kənd/"
   },
   {
     "word": "Feeble",
@@ -4866,7 +4866,6 @@
   function initTheme() {
     if (!els.themeToggleBtn) return;
     
-    // Load persisted theme
     const savedTheme = localStorage.getItem('theme') || 'dark';
     if (savedTheme === 'light') {
       document.body.classList.add('light-theme');
@@ -4890,19 +4889,16 @@
     const word = filteredWords[index];
     if (!word) return;
 
-    // Ensure the card is reset to front face when changing words
     if (els.wordCard) {
       els.wordCard.classList.remove('flipped');
     }
 
-    // Animate card
     if (els.wordCard) {
       els.wordCard.style.animation = 'none';
-      els.wordCard.offsetHeight; // trigger reflow
+      els.wordCard.offsetHeight; 
       els.wordCard.style.animation = 'fadeInUp 0.5s ease-out';
     }
 
-    // Front Content
     if (els.wordTitle) els.wordTitle.textContent = word.word;
     if (els.pronunciation) els.pronunciation.textContent = word.pronunciation;
     
@@ -4914,7 +4910,6 @@
       els.categoryBadge.textContent = word.category;
     }
 
-    // Back Content
     if (els.wordTitleBack) els.wordTitleBack.textContent = word.word;
     if (els.meaning) els.meaning.textContent = word.meaning;
     if (els.example) els.example.textContent = `"${word.example}"`;
@@ -4936,12 +4931,12 @@
     const isFlipped = els.wordCard.classList.toggle('flipped');
 
     if (isFlipped) {
-      // Active interaction: word is marked seen ONLY when Y-axis flip occurs
       const word = filteredWords[currentIndex];
       if (word) {
         const globalIndex = vocabulary.indexOf(word);
         seenIndices.add(globalIndex);
         updateProgress();
+        updateStreak();
       }
     }
   }
@@ -4966,6 +4961,8 @@
 
     if (els.wordsSeen) els.wordsSeen.textContent = seenIndices.size;
     if (els.wordsTotal) els.wordsTotal.textContent = vocabulary.length;
+
+    updateProgressTab();
   }
 
   function applyFilters() {
@@ -5017,10 +5014,6 @@
     renderWord(currentIndex);
   }
 
-  // ─── Touch Swipes for Card Navigation ───
-  let touchStartX = 0;
-  let touchStartY = 0;
-
   function initTouchGestures() {
     if (!els.wordCard) return;
 
@@ -5036,23 +5029,162 @@
       const deltaX = touchEndX - touchStartX;
       const deltaY = touchEndY - touchStartY;
 
-      // Ensure horizontal swipe is dominant and exceeds minimum threshold of 50px
       if (Math.abs(deltaX) > Math.abs(deltaY) && Math.abs(deltaX) > 50) {
         if (deltaX < 0) {
-          // Swipe Left: Next Word
           nextWord();
         } else {
-          // Swipe Right: Shuffle/Random Word
           shuffleWord();
         }
       }
     }, { passive: true });
   }
 
-  // ─── Quiz Mode ───
+  function updateProgressTab() {
+    updateStreakDisplay();
+    
+    const badgeItems = {
+      'novice': { el: document.getElementById('badge-novice'), limit: 5, name: 'Novice' },
+      'fast-learner': { el: document.getElementById('badge-fast-learner'), limit: 20, name: 'Fast Learner' },
+      'scholar': { el: document.getElementById('badge-scholar'), limit: 50, name: 'Scholar' },
+      'champion': { el: document.getElementById('badge-champion'), limit: 100, name: 'Champion' },
+      'polyglot': { el: document.getElementById('badge-polyglot'), limit: 200, name: 'Polyglot' },
+      'master': { el: document.getElementById('badge-master'), limit: 500, name: 'Master' }
+    };
+
+    let unlockedCount = 0;
+    const seenCount = seenIndices.size;
+
+    Object.keys(badgeItems).forEach(key => {
+      const badge = badgeItems[key];
+      if (!badge.el) return;
+      
+      const isUnlocked = seenCount >= badge.limit;
+      if (isUnlocked) {
+        badge.el.classList.remove('locked');
+        badge.el.setAttribute('aria-label', `${badge.name} badge unlocked. View details.`);
+        badge.el.setAttribute('tabindex', '0');
+        unlockedCount++;
+      } else {
+        badge.el.classList.add('locked');
+        badge.el.setAttribute('aria-label', `${badge.name} badge locked. Needs ${badge.limit} words seen.`);
+        badge.el.removeAttribute('tabindex');
+      }
+    });
+
+    const unlockedCountEl = document.getElementById('badges-unlocked-count');
+    if (unlockedCountEl) {
+      unlockedCountEl.textContent = `${unlockedCount} / ${Object.keys(badgeItems).length}`;
+    }
+
+    const barFri = document.getElementById('bar-fri');
+    if (barFri) {
+      const todaySeenPercent = Math.min(100, Math.max(15, seenCount * 2.5));
+      barFri.style.height = todaySeenPercent + '%';
+    }
+  }
+
+  function updateStreak() {
+    let streak = parseInt(localStorage.getItem('lexicon_streak') || '12', 10);
+    const todayStr = new Date().toDateString();
+    const lastStudyDate = localStorage.getItem('lexicon_last_study_date');
+
+    if (lastStudyDate) {
+      if (lastStudyDate !== todayStr) {
+        const yesterday = new Date();
+        yesterday.setDate(yesterday.getDate() - 1);
+        const yesterdayStr = yesterday.toDateString();
+
+        if (lastStudyDate === yesterdayStr) {
+          streak += 1;
+        } else {
+          streak = 1;
+        }
+        localStorage.setItem('lexicon_streak', streak);
+        localStorage.setItem('lexicon_last_study_date', todayStr);
+      }
+    } else {
+      localStorage.setItem('lexicon_last_study_date', todayStr);
+      localStorage.setItem('lexicon_streak', streak);
+    }
+    updateStreakDisplay();
+  }
+
+  function updateStreakDisplay() {
+    const streak = localStorage.getItem('lexicon_streak') || '12';
+    const streakEl = document.getElementById('progress-streak-count');
+    if (streakEl) {
+      streakEl.textContent = streak;
+    }
+  }
+
+  function triggerLexiJoy(event) {
+    const target = event.currentTarget || event;
+    if (!target) return;
+
+    const lexiImg = target.classList.contains('lexi-img-wrapper') 
+      ? target 
+      : target.querySelector('.lexi-img-wrapper');
+      
+    const particleContainer = target.querySelector('.particle-container') 
+      || (target.parentElement && target.parentElement.querySelector('.particle-container'))
+      || target;
+
+    if (lexiImg) {
+      lexiImg.classList.remove('animate-float');
+      void lexiImg.offsetWidth; 
+      lexiImg.classList.add('animate-jump');
+      
+      setTimeout(() => {
+        lexiImg.classList.remove('animate-jump');
+        lexiImg.classList.add('animate-float');
+      }, 600);
+    }
+
+    if (particleContainer) {
+      const colors = ['#44e2cd', '#d2bbff', '#ffb783', '#ffb4ab']; 
+      const particleCount = 15;
+      
+      for (let i = 0; i < particleCount; i++) {
+        const particle = document.createElement('div');
+        particle.classList.add('particle');
+        
+        const angle = (Math.PI * 2 * i) / particleCount + (Math.random() * 0.4 - 0.2);
+        const distance = 45 + Math.random() * 35;
+        const tx = Math.cos(angle) * distance + 'px';
+        const ty = Math.sin(angle) * distance + 'px';
+        const rot = (Math.random() * 360) + 'deg';
+        const color = colors[Math.floor(Math.random() * colors.length)];
+        
+        particle.style.setProperty('--tx', tx);
+        particle.style.setProperty('--ty', ty);
+        particle.style.setProperty('--rot', rot);
+        particle.style.setProperty('--color', color);
+        
+        particleContainer.appendChild(particle);
+        
+        setTimeout(() => {
+          particle.remove();
+        }, 800);
+      }
+    }
+
+    const speechTextEl = document.getElementById('mascot-speech-text');
+    if (speechTextEl) {
+      const quotes = [
+        "\"Whoa! That tickles! Let's learn more words!\"",
+        "\"You're doing amazing! We are mastering vocabulary together!\"",
+        "\"Knowledge is power! Click me anytime for a spark of joy!\"",
+        "\"Keep going! Each word you learn makes you smarter!\"",
+        "\"Sparkle power! You've got this! Let's learn!\"",
+        "\"Vocabulary is the spice of life. Let's conquer it!\"",
+        "\"Bouncy bouncy! The more you flip, the more you see!\""
+      ];
+      speechTextEl.textContent = quotes[Math.floor(Math.random() * quotes.length)];
+    }
+  }
+
   function generateQuizQuestions(wordList = vocabulary) {
     const shuffled = shuffleArray(wordList);
-    // Limit to 10 questions unless in missed-only practice mode
     const targetWords = isMissedOnlyMode ? shuffled : shuffled.slice(0, 10);
 
     return targetWords.map(word => {
@@ -5099,11 +5231,10 @@
       if (els.quizOptions) els.quizOptions.appendChild(btn);
     });
 
-    // Animate active card
     const card = document.getElementById('quiz-card');
     if (card) {
       card.style.animation = 'none';
-      card.offsetHeight; // trigger reflow
+      card.offsetHeight; 
       card.style.animation = 'fadeInUp 0.5s ease-out';
     }
   }
@@ -5139,13 +5270,11 @@
         els.quizFeedback.className = 'quiz-feedback incorrect';
       }
       
-      // Track missed word for later practice
       const currentWordObj = vocabulary.find(w => w.word === quizQuestions[quizIndex].word);
       if (currentWordObj && !missedWords.some(w => w.word === currentWordObj.word)) {
         missedWords.push(currentWordObj);
       }
 
-      // Shake animation
       const card = document.getElementById('quiz-card');
       if (card) {
         card.classList.add('shake');
@@ -5225,7 +5354,7 @@
     
     isMissedOnlyMode = true;
     const targetList = [...missedWords];
-    missedWords = []; // reset for the new practice run
+    missedWords = []; 
     
     quizQuestions = generateQuizQuestions(targetList);
     quizIndex = 0;
@@ -5290,7 +5419,6 @@
     renderQuizQuestion();
   }
 
-  // ─── Tab Switching ───
   function switchTab(tabName) {
     els.tabBtns.forEach(btn => {
       const isActive = btn.dataset.tab === tabName;
@@ -5303,10 +5431,11 @@
 
     if (tabName === 'quiz') {
       startQuiz();
+    } else if (tabName === 'progress') {
+      updateProgressTab();
     }
   }
 
-  // ─── Event Listeners ───
   if (els.nextBtn) els.nextBtn.addEventListener('click', nextWord);
   if (els.shuffleBtn) els.shuffleBtn.addEventListener('click', shuffleWord);
   if (els.searchInput) els.searchInput.addEventListener('input', applyFilters);
@@ -5328,14 +5457,21 @@
     btn.addEventListener('click', () => switchTab(btn.dataset.tab));
   });
 
-  // ─── Keyboard Navigation ───
+  const mascotInteractiveTrigger = document.getElementById('mascot-interactive-trigger');
+  if (mascotInteractiveTrigger) {
+    mascotInteractiveTrigger.addEventListener('click', triggerLexiJoy);
+  }
+
+  const noResultsMascot = document.getElementById('no-results-mascot');
+  if (noResultsMascot) {
+    noResultsMascot.addEventListener('click', triggerLexiJoy);
+  }
+
   document.addEventListener('keydown', (e) => {
-    // Safety check: ignore navigation shortcuts when typing in search query input
     if (document.activeElement === els.searchInput) {
       return;
     }
 
-    // Learn Tab Shortcuts
     const learnPanel = document.getElementById('learn-panel');
     if (learnPanel && learnPanel.classList.contains('active')) {
       if (e.key === 'ArrowRight') {
@@ -5350,7 +5486,6 @@
       }
     }
 
-    // Quiz Tab Shortcuts
     const quizPanel = document.getElementById('quiz-panel');
     if (quizPanel && quizPanel.classList.contains('active')) {
       if (!quizAnswered) {
@@ -5363,7 +5498,6 @@
         }
       }
       
-      // Enter advances to next question or displays dashboard when disabled is false
       if (e.key === 'Enter' && els.quizNextBtn && !els.quizNextBtn.disabled && els.quizNextBtn.style.display !== 'none') {
         e.preventDefault();
         nextQuizQuestion();
@@ -5371,7 +5505,6 @@
     }
   });
 
-  // ─── Init ───
   function init() {
     initTheme();
     initTouchGestures();
@@ -5380,7 +5513,6 @@
     renderWord(0);
   }
 
-  // ─── Test & Automation API Hook ───
   const testAPI = {
     getVocabulary: () => vocabulary,
     getState: () => ({
@@ -5420,7 +5552,8 @@
     retakeMissed,
     restartQuiz,
     startQuiz,
-    switchTab
+    switchTab,
+    triggerLexiJoy
   };
 
   if (typeof window !== 'undefined') {
