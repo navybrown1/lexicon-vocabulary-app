@@ -1280,7 +1280,7 @@
   },
   {
     "word": "Besmirch",
-    "meaning": "High-level vocabulary word meaning of besmirch.",
+    "meaning": "To damage or ruin someone's reputation; to sully or soil something.",
     "example": "We witnessed a clear representation of besmirch in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1288,7 +1288,7 @@
   },
   {
     "word": "Bestow",
-    "meaning": "High-level vocabulary word meaning of bestow.",
+    "meaning": "To present or give as a gift or honor; to confer upon.",
     "example": "We witnessed a clear representation of bestow in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1296,7 +1296,7 @@
   },
   {
     "word": "Betroth",
-    "meaning": "High-level vocabulary word meaning of betroth.",
+    "meaning": "To formally engage someone to be married; to pledge in marriage.",
     "example": "We witnessed a clear representation of betroth in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1304,7 +1304,7 @@
   },
   {
     "word": "Bevy",
-    "meaning": "High-level vocabulary word meaning of bevy.",
+    "meaning": "A large group or collection of people or things, especially of a similar kind.",
     "example": "We witnessed a clear representation of bevy in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1312,7 +1312,7 @@
   },
   {
     "word": "Bias",
-    "meaning": "High-level vocabulary word meaning of bias.",
+    "meaning": "A prejudice in favor of or against a person, group, or thing that is unfair; a tendency to lean in a particular direction.",
     "example": "We witnessed a clear representation of bias in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1320,7 +1320,7 @@
   },
   {
     "word": "Bibliophile",
-    "meaning": "High-level vocabulary word meaning of bibliophile.",
+    "meaning": "A person who collects or has a great love of books.",
     "example": "We witnessed a clear representation of bibliophile in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -1328,7 +1328,7 @@
   },
   {
     "word": "Bifurcate",
-    "meaning": "High-level vocabulary word meaning of bifurcate.",
+    "meaning": "To divide or fork into two branches or parts.",
     "example": "We witnessed a clear representation of bifurcate in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -1336,7 +1336,7 @@
   },
   {
     "word": "Bilk",
-    "meaning": "High-level vocabulary word meaning of bilk.",
+    "meaning": "To cheat or swindle someone, especially by failing to pay a debt.",
     "example": "We witnessed a clear representation of bilk in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1344,7 +1344,7 @@
   },
   {
     "word": "Binge",
-    "meaning": "High-level vocabulary word meaning of binge.",
+    "meaning": "To indulge in an activity, especially eating or drinking, to excess.",
     "example": "We witnessed a clear representation of binge in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1352,7 +1352,7 @@
   },
   {
     "word": "Bipartisan",
-    "meaning": "High-level vocabulary word meaning of bipartisan.",
+    "meaning": "Of or involving the agreement or cooperation of two political parties that usually oppose each other.",
     "example": "We witnessed a clear representation of bipartisan in their action.",
     "category": "social",
     "difficulty": "advanced",
@@ -1360,7 +1360,7 @@
   },
   {
     "word": "Blasphemy",
-    "meaning": "High-level vocabulary word meaning of blasphemy.",
+    "meaning": "The act of speaking sacrilegiously about God or sacred things; profane talk.",
     "example": "We witnessed a clear representation of blasphemy in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -1368,7 +1368,7 @@
   },
   {
     "word": "Blatant",
-    "meaning": "High-level vocabulary word meaning of blatant.",
+    "meaning": "Done openly and unashamedly; completely obvious in an offensive or shocking way.",
     "example": "We witnessed a clear representation of blatant in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1376,7 +1376,7 @@
   },
   {
     "word": "Blight",
-    "meaning": "High-level vocabulary word meaning of blight.",
+    "meaning": "A thing that spoils or damages something; a plant disease causing withering.",
     "example": "We witnessed a clear representation of blight in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1384,7 +1384,7 @@
   },
   {
     "word": "Blissful",
-    "meaning": "High-level vocabulary word meaning of blissful.",
+    "meaning": "Full of or characterized by complete happiness; enjoying perfect felicity.",
     "example": "We witnessed a clear representation of blissful in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1392,7 +1392,7 @@
   },
   {
     "word": "Blithe",
-    "meaning": "High-level vocabulary word meaning of blithe.",
+    "meaning": "Showing a casual and cheerful indifference considered to be callous or improper; carefree.",
     "example": "We witnessed a clear representation of blithe in their action.",
     "category": "literary",
     "difficulty": "intermediate",
@@ -1400,7 +1400,7 @@
   },
   {
     "word": "Bludgeon",
-    "meaning": "High-level vocabulary word meaning of bludgeon.",
+    "meaning": "To beat someone repeatedly with a heavy object; to coerce with aggressive argument.",
     "example": "We witnessed a clear representation of bludgeon in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1408,7 +1408,7 @@
   },
   {
     "word": "Blunder",
-    "meaning": "High-level vocabulary word meaning of blunder.",
+    "meaning": "A stupid or careless mistake; to make such an error through clumsiness or ignorance.",
     "example": "We witnessed a clear representation of blunder in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1416,7 +1416,7 @@
   },
   {
     "word": "Boisterous",
-    "meaning": "High-level vocabulary word meaning of boisterous.",
+    "meaning": "Noisy, energetic, and cheerful; rough or rowdy in behavior.",
     "example": "We witnessed a clear representation of boisterous in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -1424,7 +1424,7 @@
   },
   {
     "word": "Bolster",
-    "meaning": "High-level vocabulary word meaning of bolster.",
+    "meaning": "To support, strengthen, or prop up; to reinforce or improve.",
     "example": "We witnessed a clear representation of bolster in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1432,7 +1432,7 @@
   },
   {
     "word": "Bombastic",
-    "meaning": "High-level vocabulary word meaning of bombastic.",
+    "meaning": "High-sounding but with little meaning; inflated or pretentious in speech or writing.",
     "example": "We witnessed a clear representation of bombastic in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -1440,7 +1440,7 @@
   },
   {
     "word": "Bona fide",
-    "meaning": "High-level vocabulary word meaning of bona fide.",
+    "meaning": "Genuine; real; made or carried out in good faith without fraud or deceit.",
     "example": "We witnessed a clear representation of bona fide in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -1448,7 +1448,7 @@
   },
   {
     "word": "Boorish",
-    "meaning": "High-level vocabulary word meaning of boorish.",
+    "meaning": "Rough and bad-mannered; coarse and unpleasant in behavior.",
     "example": "We witnessed a clear representation of boorish in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1456,7 +1456,7 @@
   },
   {
     "word": "Botany",
-    "meaning": "High-level vocabulary word meaning of botany.",
+    "meaning": "The scientific study of plants, including their physiology, structure, genetics, and classification.",
     "example": "We witnessed a clear representation of botany in their action.",
     "category": "science",
     "difficulty": "intermediate",
@@ -1464,7 +1464,7 @@
   },
   {
     "word": "Brandish",
-    "meaning": "High-level vocabulary word meaning of brandish.",
+    "meaning": "To wave or flourish a weapon or other object menacingly.",
     "example": "We witnessed a clear representation of brandish in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1472,7 +1472,7 @@
   },
   {
     "word": "Bravado",
-    "meaning": "High-level vocabulary word meaning of bravado.",
+    "meaning": "A bold, swaggering display of courage meant to impress; false bravery.",
     "example": "We witnessed a clear representation of bravado in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1480,7 +1480,7 @@
   },
   {
     "word": "Brazen",
-    "meaning": "High-level vocabulary word meaning of brazen.",
+    "meaning": "Bold and without shame; made of or resembling brass.",
     "example": "We witnessed a clear representation of brazen in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1488,7 +1488,7 @@
   },
   {
     "word": "Breach",
-    "meaning": "High-level vocabulary word meaning of breach.",
+    "meaning": "An act of breaking or failing to observe a law, agreement, or code of conduct; a gap in a wall or barrier.",
     "example": "We witnessed a clear representation of breach in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1496,7 +1496,7 @@
   },
   {
     "word": "Breadth",
-    "meaning": "High-level vocabulary word meaning of breadth.",
+    "meaning": "The distance or measurement from side to side; width; wide range or scope.",
     "example": "We witnessed a clear representation of breadth in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1504,7 +1504,7 @@
   },
   {
     "word": "Brevity",
-    "meaning": "High-level vocabulary word meaning of brevity.",
+    "meaning": "Concise and exact use of words in writing or speech; shortness of time.",
     "example": "We witnessed a clear representation of brevity in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1512,7 +1512,7 @@
   },
   {
     "word": "Brigade",
-    "meaning": "High-level vocabulary word meaning of brigade.",
+    "meaning": "A subdivision of an army; a group of people organized for a particular purpose.",
     "example": "We witnessed a clear representation of brigade in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1520,7 +1520,7 @@
   },
   {
     "word": "Bristle",
-    "meaning": "High-level vocabulary word meaning of bristle.",
+    "meaning": "To react angrily or defensively; short stiff hairs or filaments on an animal or plant.",
     "example": "We witnessed a clear representation of bristle in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1528,7 +1528,7 @@
   },
   {
     "word": "Broach",
-    "meaning": "High-level vocabulary word meaning of broach.",
+    "meaning": "To raise a sensitive or difficult subject for the first time; to begin to deal with.",
     "example": "We witnessed a clear representation of broach in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1536,7 +1536,7 @@
   },
   {
     "word": "Bromide",
-    "meaning": "High-level vocabulary word meaning of bromide.",
+    "meaning": "A trite, unoriginal statement expressing a commonplace; a cliché.",
     "example": "We witnessed a clear representation of bromide in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1544,7 +1544,7 @@
   },
   {
     "word": "Brook",
-    "meaning": "High-level vocabulary word meaning of brook.",
+    "meaning": "To tolerate or allow something; a small stream.",
     "example": "We witnessed a clear representation of brook in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1552,7 +1552,7 @@
   },
   {
     "word": "Brouhaha",
-    "meaning": "High-level vocabulary word meaning of brouhaha.",
+    "meaning": "A noisy and overexcited reaction or response to something; a commotion.",
     "example": "We witnessed a clear representation of brouhaha in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1560,7 +1560,7 @@
   },
   {
     "word": "Brusque",
-    "meaning": "High-level vocabulary word meaning of brusque.",
+    "meaning": "Abrupt or offhand in speech or manner; curt or blunt.",
     "example": "We witnessed a clear representation of brusque in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1568,7 +1568,7 @@
   },
   {
     "word": "Bucolic",
-    "meaning": "High-level vocabulary word meaning of bucolic.",
+    "meaning": "Relating to the pleasant aspects of the countryside and rural life; pastoral.",
     "example": "We witnessed a clear representation of bucolic in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1576,7 +1576,7 @@
   },
   {
     "word": "Buffet",
-    "meaning": "High-level vocabulary word meaning of buffet.",
+    "meaning": "To knock or push against repeatedly; a meal where guests serve themselves from a variety of dishes.",
     "example": "We witnessed a clear representation of buffet in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1584,7 +1584,7 @@
   },
   {
     "word": "Burgeon",
-    "meaning": "High-level vocabulary word meaning of burgeon.",
+    "meaning": "To begin to grow or increase rapidly; to flourish.",
     "example": "We witnessed a clear representation of burgeon in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1592,7 +1592,7 @@
   },
   {
     "word": "Bureaucracy",
-    "meaning": "High-level vocabulary word meaning of bureaucracy.",
+    "meaning": "A system of government or management marked by excessive complexity and adherence to rigid rules.",
     "example": "We witnessed a clear representation of bureaucracy in their action.",
     "category": "business",
     "difficulty": "advanced",
@@ -1600,7 +1600,7 @@
   },
   {
     "word": "Burly",
-    "meaning": "High-level vocabulary word meaning of burly.",
+    "meaning": "Large and strong; heavily built.",
     "example": "We witnessed a clear representation of burly in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1616,7 +1616,7 @@
   },
   {
     "word": "Buttress",
-    "meaning": "High-level vocabulary word meaning of buttress.",
+    "meaning": "To increase the strength of or justification for something; a projecting support built against a wall.",
     "example": "We witnessed a clear representation of buttress in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1840,7 +1840,7 @@
   },
   {
     "word": "Catharsis",
-    "meaning": "High-level vocabulary word meaning of catharsis.",
+    "meaning": "The process of releasing and providing relief from strong or repressed emotions.",
     "example": "We witnessed a clear representation of catharsis in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -1848,7 +1848,7 @@
   },
   {
     "word": "Caustic",
-    "meaning": "High-level vocabulary word meaning of caustic.",
+    "meaning": "Able to burn or corrode organic tissue; sarcastic or critical in a sharp, bitter way.",
     "example": "We witnessed a clear representation of caustic in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1856,7 +1856,7 @@
   },
   {
     "word": "Cavalier",
-    "meaning": "High-level vocabulary word meaning of cavalier.",
+    "meaning": "Showing a lack of proper concern; treating important issues with insufficient care.",
     "example": "We witnessed a clear representation of cavalier in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1864,7 +1864,7 @@
   },
   {
     "word": "Cede",
-    "meaning": "High-level vocabulary word meaning of cede.",
+    "meaning": "To give up power or territory to another authority or person.",
     "example": "We witnessed a clear representation of cede in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1872,7 +1872,7 @@
   },
   {
     "word": "Celestial",
-    "meaning": "High-level vocabulary word meaning of celestial.",
+    "meaning": "Of or relating to the sky or heavens; supremely good; divine.",
     "example": "We witnessed a clear representation of celestial in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -1880,7 +1880,7 @@
   },
   {
     "word": "Censorious",
-    "meaning": "High-level vocabulary word meaning of censorious.",
+    "meaning": "Severely critical of others; fault-finding.",
     "example": "We witnessed a clear representation of censorious in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -1888,7 +1888,7 @@
   },
   {
     "word": "Censure",
-    "meaning": "High-level vocabulary word meaning of censure.",
+    "meaning": "Express severe disapproval of someone or something, typically in a formal statement.",
     "example": "We witnessed a clear representation of censure in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1896,7 +1896,7 @@
   },
   {
     "word": "Cerebral",
-    "meaning": "High-level vocabulary word meaning of cerebral.",
+    "meaning": "Of or relating to the brain; intellectual rather than emotional.",
     "example": "We witnessed a clear representation of cerebral in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1904,7 +1904,7 @@
   },
   {
     "word": "Certitude",
-    "meaning": "High-level vocabulary word meaning of certitude.",
+    "meaning": "Absolute certainty or conviction; the quality of being certain.",
     "example": "We witnessed a clear representation of certitude in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -1912,7 +1912,7 @@
   },
   {
     "word": "Chagrin",
-    "meaning": "High-level vocabulary word meaning of chagrin.",
+    "meaning": "Distress or embarrassment at having failed or been humiliated.",
     "example": "We witnessed a clear representation of chagrin in their action.",
     "category": "emotional",
     "difficulty": "intermediate",
@@ -1920,7 +1920,7 @@
   },
   {
     "word": "Charisma",
-    "meaning": "High-level vocabulary word meaning of charisma.",
+    "meaning": "A compelling attractiveness or charm that inspires devotion in others.",
     "example": "We witnessed a clear representation of charisma in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1928,7 +1928,7 @@
   },
   {
     "word": "Chasm",
-    "meaning": "High-level vocabulary word meaning of chasm.",
+    "meaning": "A deep fissure in the earth or another surface; a profound difference between people.",
     "example": "We witnessed a clear representation of chasm in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1936,7 +1936,7 @@
   },
   {
     "word": "Chastise",
-    "meaning": "High-level vocabulary word meaning of chastise.",
+    "meaning": "To rebuke or reprimand severely; to punish, especially by beating.",
     "example": "We witnessed a clear representation of chastise in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1944,7 +1944,7 @@
   },
   {
     "word": "Chicanery",
-    "meaning": "High-level vocabulary word meaning of chicanery.",
+    "meaning": "The use of trickery to achieve a political, financial, or legal purpose.",
     "example": "We witnessed a clear representation of chicanery in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -1952,7 +1952,7 @@
   },
   {
     "word": "Chide",
-    "meaning": "High-level vocabulary word meaning of chide.",
+    "meaning": "To scold or rebuke someone gently.",
     "example": "We witnessed a clear representation of chide in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1960,7 +1960,7 @@
   },
   {
     "word": "Chimera",
-    "meaning": "High-level vocabulary word meaning of chimera.",
+    "meaning": "A thing that is hoped or wished for but is in fact illusory or impossible to achieve.",
     "example": "We witnessed a clear representation of chimera in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1968,7 +1968,7 @@
   },
   {
     "word": "Chronic",
-    "meaning": "High-level vocabulary word meaning of chronic.",
+    "meaning": "Persisting for a long time or constantly recurring; of a problem, very serious or severe.",
     "example": "We witnessed a clear representation of chronic in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1976,7 +1976,7 @@
   },
   {
     "word": "Churlish",
-    "meaning": "High-level vocabulary word meaning of churlish.",
+    "meaning": "Rude in a mean-spirited way; difficult to work with or deal with.",
     "example": "We witnessed a clear representation of churlish in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -1984,7 +1984,7 @@
   },
   {
     "word": "Circuitous",
-    "meaning": "High-level vocabulary word meaning of circuitous.",
+    "meaning": "Longer than the most direct way; going in circles rather than directly to a point.",
     "example": "We witnessed a clear representation of circuitous in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -1992,7 +1992,7 @@
   },
   {
     "word": "Circumscribe",
-    "meaning": "High-level vocabulary word meaning of circumscribe.",
+    "meaning": "To restrict something within limits; to draw a boundary around.",
     "example": "We witnessed a clear representation of circumscribe in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2000,7 +2000,7 @@
   },
   {
     "word": "Circumspect",
-    "meaning": "High-level vocabulary word meaning of circumspect.",
+    "meaning": "Wary and unwilling to take risks; careful about all circumstances.",
     "example": "We witnessed a clear representation of circumspect in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2008,7 +2008,7 @@
   },
   {
     "word": "Circumvent",
-    "meaning": "High-level vocabulary word meaning of circumvent.",
+    "meaning": "To find a way around an obstacle; to avoid or overcome a difficulty.",
     "example": "We witnessed a clear representation of circumvent in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2016,7 +2016,7 @@
   },
   {
     "word": "Clairvoyant",
-    "meaning": "High-level vocabulary word meaning of clairvoyant.",
+    "meaning": "Having or claiming the ability to perceive things beyond normal sensory contact; a person with this gift.",
     "example": "We witnessed a clear representation of clairvoyant in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2024,7 +2024,7 @@
   },
   {
     "word": "Clamor",
-    "meaning": "High-level vocabulary word meaning of clamor.",
+    "meaning": "A loud and confused noise; a strongly expressed protest or demand.",
     "example": "We witnessed a clear representation of clamor in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2032,7 +2032,7 @@
   },
   {
     "word": "Clandestine",
-    "meaning": "High-level vocabulary word meaning of clandestine.",
+    "meaning": "Kept secret or done secretively, especially because illicit.",
     "example": "We witnessed a clear representation of clandestine in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2040,7 +2040,7 @@
   },
   {
     "word": "Clout",
-    "meaning": "High-level vocabulary word meaning of clout.",
+    "meaning": "Influence or power, especially in politics or business; a heavy blow.",
     "example": "We witnessed a clear representation of clout in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2048,7 +2048,7 @@
   },
   {
     "word": "Coalesce",
-    "meaning": "High-level vocabulary word meaning of coalesce.",
+    "meaning": "To come together to form one mass or whole; to combine.",
     "example": "We witnessed a clear representation of coalesce in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2056,7 +2056,7 @@
   },
   {
     "word": "Coalition",
-    "meaning": "High-level vocabulary word meaning of coalition.",
+    "meaning": "A temporary alliance, especially of political parties, formed for joint action.",
     "example": "We witnessed a clear representation of coalition in their action.",
     "category": "social",
     "difficulty": "advanced",
@@ -2064,7 +2064,7 @@
   },
   {
     "word": "Coercive",
-    "meaning": "High-level vocabulary word meaning of coercive.",
+    "meaning": "Relating to or using force or threats; compelling by force.",
     "example": "We witnessed a clear representation of coercive in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2072,7 +2072,7 @@
   },
   {
     "word": "Cogent",
-    "meaning": "High-level vocabulary word meaning of cogent.",
+    "meaning": "Clear, logical, and convincing in argument.",
     "example": "We witnessed a clear representation of cogent in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2080,7 +2080,7 @@
   },
   {
     "word": "Cogitate",
-    "meaning": "High-level vocabulary word meaning of cogitate.",
+    "meaning": "To think deeply about something; to meditate or reflect.",
     "example": "We witnessed a clear representation of cogitate in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2088,7 +2088,7 @@
   },
   {
     "word": "Cognizant",
-    "meaning": "High-level vocabulary word meaning of cognizant.",
+    "meaning": "Having knowledge or being aware of something.",
     "example": "We witnessed a clear representation of cognizant in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2096,7 +2096,7 @@
   },
   {
     "word": "Coherent",
-    "meaning": "High-level vocabulary word meaning of coherent.",
+    "meaning": "Logical and consistent; forming a unified whole.",
     "example": "We witnessed a clear representation of coherent in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2104,7 +2104,7 @@
   },
   {
     "word": "Cohort",
-    "meaning": "High-level vocabulary word meaning of cohort.",
+    "meaning": "A group of people with a shared characteristic; an associate or companion.",
     "example": "We witnessed a clear representation of cohort in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2112,7 +2112,7 @@
   },
   {
     "word": "Collaborate",
-    "meaning": "High-level vocabulary word meaning of collaborate.",
+    "meaning": "To work jointly on an activity or project with another person or group.",
     "example": "We witnessed a clear representation of collaborate in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2120,7 +2120,7 @@
   },
   {
     "word": "Collateral",
-    "meaning": "High-level vocabulary word meaning of collateral.",
+    "meaning": "Additional security pledged against a loan; associated but secondary; parallel.",
     "example": "We witnessed a clear representation of collateral in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2128,7 +2128,7 @@
   },
   {
     "word": "Colloquial",
-    "meaning": "High-level vocabulary word meaning of colloquial.",
+    "meaning": "Used in ordinary or familiar conversation; not formal or literary.",
     "example": "We witnessed a clear representation of colloquial in their action.",
     "category": "social",
     "difficulty": "advanced",
@@ -2136,7 +2136,7 @@
   },
   {
     "word": "Collude",
-    "meaning": "High-level vocabulary word meaning of collude.",
+    "meaning": "To come to a secret understanding for a harmful or illegal purpose; to conspire.",
     "example": "We witnessed a clear representation of collude in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2392,7 +2392,7 @@
   },
   {
     "word": "Connoisseur",
-    "meaning": "High-level vocabulary word meaning of connoisseur.",
+    "meaning": "An expert judge in matters of taste; a person with informed appreciation of an activity.",
     "example": "We witnessed a clear representation of connoisseur in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2400,7 +2400,7 @@
   },
   {
     "word": "Conscientious",
-    "meaning": "High-level vocabulary word meaning of conscientious.",
+    "meaning": "Wishing to do one's work or duty well and thoroughly; taking care to do things correctly.",
     "example": "We witnessed a clear representation of conscientious in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2408,7 +2408,7 @@
   },
   {
     "word": "Conscious",
-    "meaning": "High-level vocabulary word meaning of conscious.",
+    "meaning": "Aware of and responding to one's surroundings; deliberately chosen.",
     "example": "We witnessed a clear representation of conscious in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2416,7 +2416,7 @@
   },
   {
     "word": "Consecrate",
-    "meaning": "High-level vocabulary word meaning of consecrate.",
+    "meaning": "To make or declare something sacred; to dedicate formally to a religious purpose.",
     "example": "We witnessed a clear representation of consecrate in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2424,7 +2424,7 @@
   },
   {
     "word": "Consensus",
-    "meaning": "High-level vocabulary word meaning of consensus.",
+    "meaning": "General agreement; the judgment arrived at by most of those concerned.",
     "example": "We witnessed a clear representation of consensus in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2432,7 +2432,7 @@
   },
   {
     "word": "Consequential",
-    "meaning": "High-level vocabulary word meaning of consequential.",
+    "meaning": "Following as a result; important; significant.",
     "example": "We witnessed a clear representation of consequential in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2440,7 +2440,7 @@
   },
   {
     "word": "Conservative",
-    "meaning": "High-level vocabulary word meaning of conservative.",
+    "meaning": "Holding to traditional values and cautious about change; moderate; cautious.",
     "example": "We witnessed a clear representation of conservative in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2448,7 +2448,7 @@
   },
   {
     "word": "Considerate",
-    "meaning": "High-level vocabulary word meaning of considerate.",
+    "meaning": "Careful not to inconvenience or harm others; thoughtful about other people's needs.",
     "example": "We witnessed a clear representation of considerate in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2456,7 +2456,7 @@
   },
   {
     "word": "Consign",
-    "meaning": "High-level vocabulary word meaning of consign.",
+    "meaning": "To deliver something to a person's custody; to assign to an unfavorable situation.",
     "example": "We witnessed a clear representation of consign in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2464,7 +2464,7 @@
   },
   {
     "word": "Consolation",
-    "meaning": "High-level vocabulary word meaning of consolation.",
+    "meaning": "Comfort received by someone after a loss or disappointment.",
     "example": "We witnessed a clear representation of consolation in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2472,7 +2472,7 @@
   },
   {
     "word": "Conspicuous",
-    "meaning": "High-level vocabulary word meaning of conspicuous.",
+    "meaning": "Clearly visible; attracting notice or attention; obvious.",
     "example": "We witnessed a clear representation of conspicuous in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2480,7 +2480,7 @@
   },
   {
     "word": "Conspiratorial",
-    "meaning": "High-level vocabulary word meaning of conspiratorial.",
+    "meaning": "Relating to or suggestive of a conspiracy; secretively plotting.",
     "example": "We witnessed a clear representation of conspiratorial in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2488,7 +2488,7 @@
   },
   {
     "word": "Consternation",
-    "meaning": "High-level vocabulary word meaning of consternation.",
+    "meaning": "A feeling of anxiety or dismay, typically at something unexpected.",
     "example": "We witnessed a clear representation of consternation in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2496,7 +2496,7 @@
   },
   {
     "word": "Constraint",
-    "meaning": "High-level vocabulary word meaning of constraint.",
+    "meaning": "A limitation or restriction; the state of being restricted in movement or freedom.",
     "example": "We witnessed a clear representation of constraint in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2504,7 +2504,7 @@
   },
   {
     "word": "Construe",
-    "meaning": "High-level vocabulary word meaning of construe.",
+    "meaning": "To interpret or assign meaning to words or actions in a particular way.",
     "example": "We witnessed a clear representation of construe in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2512,7 +2512,7 @@
   },
   {
     "word": "Consummate",
-    "meaning": "High-level vocabulary word meaning of consummate.",
+    "meaning": "To make a marriage or relationship complete by having sexual intercourse; complete or perfect in every respect.",
     "example": "We witnessed a clear representation of consummate in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2520,7 +2520,7 @@
   },
   {
     "word": "Contagious",
-    "meaning": "High-level vocabulary word meaning of contagious.",
+    "meaning": "Spread from one person or organism to another by direct or indirect contact; likely to spread enthusiasm.",
     "example": "We witnessed a clear representation of contagious in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2528,7 +2528,7 @@
   },
   {
     "word": "Contemplate",
-    "meaning": "High-level vocabulary word meaning of contemplate.",
+    "meaning": "To look thoughtfully at something for a long time; to think about deeply.",
     "example": "We witnessed a clear representation of contemplate in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2536,7 +2536,7 @@
   },
   {
     "word": "Contemporary",
-    "meaning": "High-level vocabulary word meaning of contemporary.",
+    "meaning": "Living or occurring at the same time; belonging to the present time; modern.",
     "example": "We witnessed a clear representation of contemporary in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2544,7 +2544,7 @@
   },
   {
     "word": "Contemptuous",
-    "meaning": "High-level vocabulary word meaning of contemptuous.",
+    "meaning": "Showing contempt; scornful; disrespectful.",
     "example": "We witnessed a clear representation of contemptuous in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2552,7 +2552,7 @@
   },
   {
     "word": "Contentious",
-    "meaning": "High-level vocabulary word meaning of contentious.",
+    "meaning": "Causing or likely to cause controversy; given to arguing.",
     "example": "We witnessed a clear representation of contentious in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2560,7 +2560,7 @@
   },
   {
     "word": "Contiguous",
-    "meaning": "High-level vocabulary word meaning of contiguous.",
+    "meaning": "Sharing a common border; next to or touching each other.",
     "example": "We witnessed a clear representation of contiguous in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2568,7 +2568,7 @@
   },
   {
     "word": "Contingency",
-    "meaning": "High-level vocabulary word meaning of contingency.",
+    "meaning": "A future event or circumstance that is possible but cannot be certain; an emergency plan.",
     "example": "We witnessed a clear representation of contingency in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2576,7 +2576,7 @@
   },
   {
     "word": "Contort",
-    "meaning": "High-level vocabulary word meaning of contort.",
+    "meaning": "To twist or bend out of the normal shape.",
     "example": "We witnessed a clear representation of contort in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2584,7 +2584,7 @@
   },
   {
     "word": "Contrarian",
-    "meaning": "High-level vocabulary word meaning of contrarian.",
+    "meaning": "A person who opposes or rejects popular opinion; inclined to disagree.",
     "example": "We witnessed a clear representation of contrarian in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2592,7 +2592,7 @@
   },
   {
     "word": "Contravene",
-    "meaning": "High-level vocabulary word meaning of contravene.",
+    "meaning": "To violate or conflict with a rule or law; to oppose.",
     "example": "We witnessed a clear representation of contravene in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2600,7 +2600,7 @@
   },
   {
     "word": "Contrite",
-    "meaning": "High-level vocabulary word meaning of contrite.",
+    "meaning": "Feeling or expressing remorse at the recognition of one's wrongdoing.",
     "example": "We witnessed a clear representation of contrite in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2608,7 +2608,7 @@
   },
   {
     "word": "Contrived",
-    "meaning": "High-level vocabulary word meaning of contrived.",
+    "meaning": "Created or arranged in a way that seems artificial and unrealistic.",
     "example": "We witnessed a clear representation of contrived in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2616,7 +2616,7 @@
   },
   {
     "word": "Convoluted",
-    "meaning": "High-level vocabulary word meaning of convoluted.",
+    "meaning": "Extremely complex and difficult to follow; intricate.",
     "example": "We witnessed a clear representation of convoluted in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2624,7 +2624,7 @@
   },
   {
     "word": "Convivial",
-    "meaning": "High-level vocabulary word meaning of convivial.",
+    "meaning": "Friendly and lively; relating to good company and festivities.",
     "example": "We witnessed a clear representation of convivial in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2632,7 +2632,7 @@
   },
   {
     "word": "Copacetic",
-    "meaning": "High-level vocabulary word meaning of copacetic.",
+    "meaning": "In excellent order; completely satisfactory; fine.",
     "example": "We witnessed a clear representation of copacetic in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2840,7 +2840,7 @@
   },
   {
     "word": "Cumulative",
-    "meaning": "High-level vocabulary word meaning of cumulative.",
+    "meaning": "Increasing or increased in quantity, degree, or force by successive additions.",
     "example": "We witnessed a clear representation of cumulative in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2848,7 +2848,7 @@
   },
   {
     "word": "Cupidity",
-    "meaning": "High-level vocabulary word meaning of cupidity.",
+    "meaning": "Greed for money or possessions; excessive desire for wealth.",
     "example": "We witnessed a clear representation of cupidity in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2856,7 +2856,7 @@
   },
   {
     "word": "Curtail",
-    "meaning": "High-level vocabulary word meaning of curtail.",
+    "meaning": "To reduce in extent or quantity; to impose a restriction on.",
     "example": "We witnessed a clear representation of curtail in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2864,7 +2864,7 @@
   },
   {
     "word": "Cynical",
-    "meaning": "High-level vocabulary word meaning of cynical.",
+    "meaning": "Believing that people are motivated purely by self-interest; distrustful of human sincerity.",
     "example": "We witnessed a clear representation of cynical in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2872,7 +2872,7 @@
   },
   {
     "word": "Dalliance",
-    "meaning": "High-level vocabulary word meaning of dalliance.",
+    "meaning": "A brief romantic or sexual involvement; a casual treatment of a subject.",
     "example": "We witnessed a clear representation of dalliance in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2880,7 +2880,7 @@
   },
   {
     "word": "Dapper",
-    "meaning": "High-level vocabulary word meaning of dapper.",
+    "meaning": "Neat and trim in dress and appearance; lively in movement.",
     "example": "We witnessed a clear representation of dapper in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2888,7 +2888,7 @@
   },
   {
     "word": "Daunt",
-    "meaning": "High-level vocabulary word meaning of daunt.",
+    "meaning": "To make someone feel intimidated or apprehensive.",
     "example": "We witnessed a clear representation of daunt in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2896,7 +2896,7 @@
   },
   {
     "word": "Debacle",
-    "meaning": "High-level vocabulary word meaning of debacle.",
+    "meaning": "A sudden disastrous collapse or defeat; a confused disaster.",
     "example": "We witnessed a clear representation of debacle in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2904,7 +2904,7 @@
   },
   {
     "word": "Debase",
-    "meaning": "High-level vocabulary word meaning of debase.",
+    "meaning": "To reduce the quality, value, or character of something; to lower in status.",
     "example": "We witnessed a clear representation of debase in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2912,7 +2912,7 @@
   },
   {
     "word": "Debauchery",
-    "meaning": "High-level vocabulary word meaning of debauchery.",
+    "meaning": "Excessive indulgence in sensual pleasures; wild immorality.",
     "example": "We witnessed a clear representation of debauchery in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2920,7 +2920,7 @@
   },
   {
     "word": "Debilitate",
-    "meaning": "High-level vocabulary word meaning of debilitate.",
+    "meaning": "To make someone very weak and infirm; to impair the strength of.",
     "example": "We witnessed a clear representation of debilitate in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2928,7 +2928,7 @@
   },
   {
     "word": "Debris",
-    "meaning": "High-level vocabulary word meaning of debris.",
+    "meaning": "Scattered fragments, typically of something wrecked or destroyed; rubble.",
     "example": "We witnessed a clear representation of debris in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2936,7 +2936,7 @@
   },
   {
     "word": "Debunk",
-    "meaning": "High-level vocabulary word meaning of debunk.",
+    "meaning": "To expose the falseness or hollowness of a myth, idea, or belief.",
     "example": "We witnessed a clear representation of debunk in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2944,7 +2944,7 @@
   },
   {
     "word": "Decadent",
-    "meaning": "High-level vocabulary word meaning of decadent.",
+    "meaning": "Characterized by or reflecting a state of moral or cultural decline; self-indulgent.",
     "example": "We witnessed a clear representation of decadent in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2952,7 +2952,7 @@
   },
   {
     "word": "Decimate",
-    "meaning": "High-level vocabulary word meaning of decimate.",
+    "meaning": "To kill or destroy a large proportion of; to severely reduce the strength of.",
     "example": "We witnessed a clear representation of decimate in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2960,7 +2960,7 @@
   },
   {
     "word": "Decisive",
-    "meaning": "High-level vocabulary word meaning of decisive.",
+    "meaning": "Settling an issue; producing a definite result; having the ability to make decisions quickly.",
     "example": "We witnessed a clear representation of decisive in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2968,7 +2968,7 @@
   },
   {
     "word": "Declaim",
-    "meaning": "High-level vocabulary word meaning of declaim.",
+    "meaning": "To utter or deliver words or a speech in a rhetorical or passionate way.",
     "example": "We witnessed a clear representation of declaim in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2976,7 +2976,7 @@
   },
   {
     "word": "Decompose",
-    "meaning": "High-level vocabulary word meaning of decompose.",
+    "meaning": "To rot or decay through a natural biological process; to separate into components.",
     "example": "We witnessed a clear representation of decompose in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -2984,7 +2984,7 @@
   },
   {
     "word": "Decorum",
-    "meaning": "High-level vocabulary word meaning of decorum.",
+    "meaning": "Behavior in keeping with good taste and propriety; proper etiquette.",
     "example": "We witnessed a clear representation of decorum in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -2992,7 +2992,7 @@
   },
   {
     "word": "Decrepit",
-    "meaning": "High-level vocabulary word meaning of decrepit.",
+    "meaning": "Worn out or ruined because of age or neglect; elderly and infirm.",
     "example": "We witnessed a clear representation of decrepit in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3000,7 +3000,7 @@
   },
   {
     "word": "Decry",
-    "meaning": "High-level vocabulary word meaning of decry.",
+    "meaning": "To publicly denounce; to express strong disapproval of.",
     "example": "We witnessed a clear representation of decry in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3008,7 +3008,7 @@
   },
   {
     "word": "Deduce",
-    "meaning": "High-level vocabulary word meaning of deduce.",
+    "meaning": "To arrive at a fact or a conclusion by reasoning; to draw a logical conclusion.",
     "example": "We witnessed a clear representation of deduce in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3016,7 +3016,7 @@
   },
   {
     "word": "Deface",
-    "meaning": "High-level vocabulary word meaning of deface.",
+    "meaning": "To spoil the surface or appearance of something; to vandalize.",
     "example": "We witnessed a clear representation of deface in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3024,7 +3024,7 @@
   },
   {
     "word": "Defame",
-    "meaning": "High-level vocabulary word meaning of defame.",
+    "meaning": "To damage the good reputation of someone by making false statements about them.",
     "example": "We witnessed a clear representation of defame in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3032,7 +3032,7 @@
   },
   {
     "word": "Default",
-    "meaning": "High-level vocabulary word meaning of default.",
+    "meaning": "Failure to fulfill an obligation, especially repaying a loan; a preselected option.",
     "example": "We witnessed a clear representation of default in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3040,7 +3040,7 @@
   },
   {
     "word": "Defeatist",
-    "meaning": "High-level vocabulary word meaning of defeatist.",
+    "meaning": "A person who expects or is too ready to accept failure; expressing acceptance of defeat.",
     "example": "We witnessed a clear representation of defeatist in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -3048,7 +3048,7 @@
   },
   {
     "word": "Deferential",
-    "meaning": "High-level vocabulary word meaning of deferential.",
+    "meaning": "Showing deference; respectful and submissive to another's judgment or will.",
     "example": "We witnessed a clear representation of deferential in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -3056,7 +3056,7 @@
   },
   {
     "word": "Defiance",
-    "meaning": "High-level vocabulary word meaning of defiance.",
+    "meaning": "Open resistance; bold disobedience.",
     "example": "We witnessed a clear representation of defiance in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3064,7 +3064,7 @@
   },
   {
     "word": "Definitive",
-    "meaning": "High-level vocabulary word meaning of definitive.",
+    "meaning": "Done or reached decisively and with authority; most authoritative of its kind.",
     "example": "We witnessed a clear representation of definitive in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -3072,7 +3072,7 @@
   },
   {
     "word": "Deflate",
-    "meaning": "High-level vocabulary word meaning of deflate.",
+    "meaning": "To release the air or gas from a tire or balloon; to reduce someone's confidence.",
     "example": "We witnessed a clear representation of deflate in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3080,7 +3080,7 @@
   },
   {
     "word": "Deflect",
-    "meaning": "High-level vocabulary word meaning of deflect.",
+    "meaning": "To cause something to change direction; to turn aside from a straight course.",
     "example": "We witnessed a clear representation of deflect in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3288,7 +3288,7 @@
   },
   {
     "word": "Desecrate",
-    "meaning": "High-level vocabulary word meaning of desecrate.",
+    "meaning": "To treat a sacred place or thing with violent disrespect; to violate the sanctity of.",
     "example": "We witnessed a clear representation of desecrate in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -3296,7 +3296,7 @@
   },
   {
     "word": "Desiccate",
-    "meaning": "High-level vocabulary word meaning of desiccate.",
+    "meaning": "To remove moisture from something; to cause to become thoroughly dried out.",
     "example": "We witnessed a clear representation of desiccate in their action.",
     "category": "science",
     "difficulty": "advanced",
@@ -3304,7 +3304,7 @@
   },
   {
     "word": "Desist",
-    "meaning": "High-level vocabulary word meaning of desist.",
+    "meaning": "To cease to proceed or act; to stop doing something.",
     "example": "We witnessed a clear representation of desist in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3312,7 +3312,7 @@
   },
   {
     "word": "Desolate",
-    "meaning": "High-level vocabulary word meaning of desolate.",
+    "meaning": "Uninhabited and giving an impression of bleak emptiness; make someone feel utterly lonely.",
     "example": "We witnessed a clear representation of desolate in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3320,7 +3320,7 @@
   },
   {
     "word": "Despondent",
-    "meaning": "High-level vocabulary word meaning of despondent.",
+    "meaning": "In low spirits from loss of hope or courage; dejected.",
     "example": "We witnessed a clear representation of despondent in their action.",
     "category": "emotional",
     "difficulty": "advanced",
@@ -3328,7 +3328,7 @@
   },
   {
     "word": "Destitute",
-    "meaning": "High-level vocabulary word meaning of destitute.",
+    "meaning": "Without the basic necessities of life; extremely poor.",
     "example": "We witnessed a clear representation of destitute in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -3336,7 +3336,7 @@
   },
   {
     "word": "Desultory",
-    "meaning": "High-level vocabulary word meaning of desultory.",
+    "meaning": "Lacking a plan, purpose, or enthusiasm; going from one thing to another without purpose.",
     "example": "We witnessed a clear representation of desultory in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -3344,7 +3344,7 @@
   },
   {
     "word": "Detachment",
-    "meaning": "High-level vocabulary word meaning of detachment.",
+    "meaning": "The state of being objective or aloof; a group of troops separated from the main body.",
     "example": "We witnessed a clear representation of detachment in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -3352,7 +3352,7 @@
   },
   {
     "word": "Deterrent",
-    "meaning": "High-level vocabulary word meaning of deterrent.",
+    "meaning": "A thing that discourages or is intended to discourage someone from taking an action.",
     "example": "We witnessed a clear representation of deterrent in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -3360,7 +3360,7 @@
   },
   {
     "word": "Detrimental",
-    "meaning": "High-level vocabulary word meaning of detrimental.",
+    "meaning": "Tending to cause harm; damaging; injurious.",
     "example": "We witnessed a clear representation of detrimental in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -3368,7 +3368,7 @@
   },
   {
     "word": "Deviate",
-    "meaning": "High-level vocabulary word meaning of deviate.",
+    "meaning": "To depart from an established course or norm; to diverge from a standard.",
     "example": "We witnessed a clear representation of deviate in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3376,7 +3376,7 @@
   },
   {
     "word": "Devious",
-    "meaning": "High-level vocabulary word meaning of devious.",
+    "meaning": "Showing a skillful use of underhanded tactics; not straightforward.",
     "example": "We witnessed a clear representation of devious in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3384,7 +3384,7 @@
   },
   {
     "word": "Devoid",
-    "meaning": "High-level vocabulary word meaning of devoid.",
+    "meaning": "Entirely lacking or free from something.",
     "example": "We witnessed a clear representation of devoid in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3392,7 +3392,7 @@
   },
   {
     "word": "Devout",
-    "meaning": "High-level vocabulary word meaning of devout.",
+    "meaning": "Having or showing deep religious feeling or commitment; earnestly sincere.",
     "example": "We witnessed a clear representation of devout in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3400,7 +3400,7 @@
   },
   {
     "word": "Dexterous",
-    "meaning": "High-level vocabulary word meaning of dexterous.",
+    "meaning": "Showing or having skill, especially with the hands; clever and quick in movement.",
     "example": "We witnessed a clear representation of dexterous in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -3408,7 +3408,7 @@
   },
   {
     "word": "Diatribe",
-    "meaning": "High-level vocabulary word meaning of diatribe.",
+    "meaning": "A forceful and bitter verbal attack against someone or something.",
     "example": "We witnessed a clear representation of diatribe in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3416,7 +3416,7 @@
   },
   {
     "word": "Dichotomy",
-    "meaning": "High-level vocabulary word meaning of dichotomy.",
+    "meaning": "A division or contrast between two things that are represented as being opposed.",
     "example": "We witnessed a clear representation of dichotomy in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -3424,7 +3424,7 @@
   },
   {
     "word": "Dictum",
-    "meaning": "High-level vocabulary word meaning of dictum.",
+    "meaning": "A formal pronouncement from an authoritative source; a short statement that expresses a general truth.",
     "example": "We witnessed a clear representation of dictum in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3432,7 +3432,7 @@
   },
   {
     "word": "Didactic",
-    "meaning": "High-level vocabulary word meaning of didactic.",
+    "meaning": "Intended to teach, particularly in having moral instruction as an ulterior motive.",
     "example": "We witnessed a clear representation of didactic in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3440,7 +3440,7 @@
   },
   {
     "word": "Differentiate",
-    "meaning": "High-level vocabulary word meaning of differentiate.",
+    "meaning": "To recognize or ascertain what makes someone or something different; to become different.",
     "example": "We witnessed a clear representation of differentiate in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -3448,7 +3448,7 @@
   },
   {
     "word": "Diffuse",
-    "meaning": "High-level vocabulary word meaning of diffuse.",
+    "meaning": "To spread over a wide area; spread out and not concentrated in one place.",
     "example": "We witnessed a clear representation of diffuse in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3456,7 +3456,7 @@
   },
   {
     "word": "Digress",
-    "meaning": "High-level vocabulary word meaning of digress.",
+    "meaning": "To leave the main subject temporarily in speech or writing; to stray from the topic.",
     "example": "We witnessed a clear representation of digress in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3464,7 +3464,7 @@
   },
   {
     "word": "Dilated",
-    "meaning": "High-level vocabulary word meaning of dilated.",
+    "meaning": "Expanded; made wider, larger, or more open.",
     "example": "We witnessed a clear representation of dilated in their action.",
     "category": "science",
     "difficulty": "intermediate",
@@ -3472,7 +3472,7 @@
   },
   {
     "word": "Dilatory",
-    "meaning": "High-level vocabulary word meaning of dilatory.",
+    "meaning": "Slow to act; intended to cause delay.",
     "example": "We witnessed a clear representation of dilatory in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3480,7 +3480,7 @@
   },
   {
     "word": "Dilemma",
-    "meaning": "High-level vocabulary word meaning of dilemma.",
+    "meaning": "A situation in which a difficult choice has to be made between two or more alternatives.",
     "example": "We witnessed a clear representation of dilemma in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3488,7 +3488,7 @@
   },
   {
     "word": "Diligent",
-    "meaning": "High-level vocabulary word meaning of diligent.",
+    "meaning": "Having or showing care and conscientiousness in one's work or duties.",
     "example": "We witnessed a clear representation of diligent in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3504,7 +3504,7 @@
   },
   {
     "word": "Din",
-    "meaning": "High-level vocabulary word meaning of din.",
+    "meaning": "A loud, unpleasant, and prolonged noise.",
     "example": "We witnessed a clear representation of din in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3512,7 +3512,7 @@
   },
   {
     "word": "Dire",
-    "meaning": "High-level vocabulary word meaning of dire.",
+    "meaning": "Extremely serious or urgent; dreadful; causing great fear.",
     "example": "We witnessed a clear representation of dire in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3520,7 +3520,7 @@
   },
   {
     "word": "Discerning",
-    "meaning": "High-level vocabulary word meaning of discerning.",
+    "meaning": "Having or showing good judgment; perceptive.",
     "example": "We witnessed a clear representation of discerning in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -3776,7 +3776,7 @@
   },
   {
     "word": "Distraught",
-    "meaning": "High-level vocabulary word meaning of distraught.",
+    "meaning": "Very worried and upset; distracted with anxiety or concern.",
     "example": "We witnessed a clear representation of distraught in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -3784,7 +3784,7 @@
   },
   {
     "word": "Diurnal",
-    "meaning": "High-level vocabulary word meaning of diurnal.",
+    "meaning": "Of or during the day; daily; active in the daytime.",
     "example": "We witnessed a clear representation of diurnal in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3792,7 +3792,7 @@
   },
   {
     "word": "Diverge",
-    "meaning": "High-level vocabulary word meaning of diverge.",
+    "meaning": "To develop in a different direction; to separate from a route and go in a different direction.",
     "example": "We witnessed a clear representation of diverge in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3800,7 +3800,7 @@
   },
   {
     "word": "Diverse",
-    "meaning": "High-level vocabulary word meaning of diverse.",
+    "meaning": "Showing a great deal of variety; very different from each other.",
     "example": "We witnessed a clear representation of diverse in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3808,23 +3808,23 @@
   },
   {
     "word": "Divisive",
-    "meaning": "High-level vocabulary word meaning of divisive.",
+    "meaning": "Tending to cause disagreement or hostility between people.",
     "example": "We witnessed a clear representation of divisive in their action.",
     "category": "academic",
     "difficulty": "intermediate",
     "pronunciation": "/divisive/"
   },
   {
-    "word": "Divuge",
-    "meaning": "High-level vocabulary word meaning of divuge.",
-    "example": "We witnessed a clear representation of divuge in their action.",
+    "word": "Divulge",
+    "meaning": "To make known private or sensitive information; to reveal or disclose.",
+    "example": "The journalist refused to divulge the identity of her confidential source.",
     "category": "academic",
     "difficulty": "intermediate",
-    "pronunciation": "/divuge/"
+    "pronunciation": "/dɪˈvʌldʒ/"
   },
   {
     "word": "Dogged",
-    "meaning": "High-level vocabulary word meaning of dogged.",
+    "meaning": "Having or showing tenacity and grim persistence; stubbornly determined.",
     "example": "We witnessed a clear representation of dogged in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3832,7 +3832,7 @@
   },
   {
     "word": "Dogmatic",
-    "meaning": "High-level vocabulary word meaning of dogmatic.",
+    "meaning": "Inclined to lay down principles as undeniably true; asserting opinions in an authoritative manner.",
     "example": "We witnessed a clear representation of dogmatic in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3840,7 +3840,7 @@
   },
   {
     "word": "Dolorous",
-    "meaning": "High-level vocabulary word meaning of dolorous.",
+    "meaning": "Feeling or expressing great sorrow or distress; mournful.",
     "example": "We witnessed a clear representation of dolorous in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3848,7 +3848,7 @@
   },
   {
     "word": "Domicile",
-    "meaning": "High-level vocabulary word meaning of domicile.",
+    "meaning": "The country or place where someone has their permanent home; a place of residence.",
     "example": "We witnessed a clear representation of domicile in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3856,7 +3856,7 @@
   },
   {
     "word": "Domineering",
-    "meaning": "High-level vocabulary word meaning of domineering.",
+    "meaning": "Asserting one's will over others in an arrogant way; tyrannical.",
     "example": "We witnessed a clear representation of domineering in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -3864,7 +3864,7 @@
   },
   {
     "word": "Dormant",
-    "meaning": "High-level vocabulary word meaning of dormant.",
+    "meaning": "Having normal physical functions suspended or slowed down; temporarily inactive.",
     "example": "We witnessed a clear representation of dormant in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3872,7 +3872,7 @@
   },
   {
     "word": "Dour",
-    "meaning": "High-level vocabulary word meaning of dour.",
+    "meaning": "Relentlessly severe, stern, or gloomy in manner or appearance.",
     "example": "We witnessed a clear representation of dour in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3880,7 +3880,7 @@
   },
   {
     "word": "Draconian",
-    "meaning": "High-level vocabulary word meaning of draconian.",
+    "meaning": "Excessively harsh or severe, especially of laws or punishments.",
     "example": "We witnessed a clear representation of draconian in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -3888,7 +3888,7 @@
   },
   {
     "word": "Droll",
-    "meaning": "High-level vocabulary word meaning of droll.",
+    "meaning": "Curious or unusual in a way that provokes dry amusement.",
     "example": "We witnessed a clear representation of droll in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3896,7 +3896,7 @@
   },
   {
     "word": "Dubious",
-    "meaning": "High-level vocabulary word meaning of dubious.",
+    "meaning": "Hesitating or doubting; not to be relied upon; suspect.",
     "example": "We witnessed a clear representation of dubious in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3904,7 +3904,7 @@
   },
   {
     "word": "Ductile",
-    "meaning": "High-level vocabulary word meaning of ductile.",
+    "meaning": "Able to be drawn out into a thin wire; flexible and adaptable.",
     "example": "We witnessed a clear representation of ductile in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3912,7 +3912,7 @@
   },
   {
     "word": "Duress",
-    "meaning": "High-level vocabulary word meaning of duress.",
+    "meaning": "Threats, violence, constraints, or other action brought to bear on someone to coerce them.",
     "example": "We witnessed a clear representation of duress in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3920,7 +3920,7 @@
   },
   {
     "word": "Dynamic",
-    "meaning": "High-level vocabulary word meaning of dynamic.",
+    "meaning": "Positive in attitude and full of energy and new ideas; characterized by constant change.",
     "example": "We witnessed a clear representation of dynamic in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3928,7 +3928,7 @@
   },
   {
     "word": "Eager",
-    "meaning": "High-level vocabulary word meaning of eager.",
+    "meaning": "Wanting to do or have something very much; keen or enthusiastic.",
     "example": "We witnessed a clear representation of eager in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3936,7 +3936,7 @@
   },
   {
     "word": "Earnest",
-    "meaning": "High-level vocabulary word meaning of earnest.",
+    "meaning": "Resulting from or showing sincere and intense conviction; serious in intention.",
     "example": "We witnessed a clear representation of earnest in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3944,7 +3944,7 @@
   },
   {
     "word": "Earthy",
-    "meaning": "High-level vocabulary word meaning of earthy.",
+    "meaning": "Resembling or suggestive of earth or soil; direct and uninhibited; coarse.",
     "example": "We witnessed a clear representation of earthy in their action.",
     "category": "science",
     "difficulty": "intermediate",
@@ -3952,7 +3952,7 @@
   },
   {
     "word": "Eclectic",
-    "meaning": "High-level vocabulary word meaning of eclectic.",
+    "meaning": "Deriving ideas, style, or taste from a broad range of sources.",
     "example": "We witnessed a clear representation of eclectic in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3960,7 +3960,7 @@
   },
   {
     "word": "Eclipse",
-    "meaning": "High-level vocabulary word meaning of eclipse.",
+    "meaning": "To obscure or block the light from; to deprive of significance or power.",
     "example": "We witnessed a clear representation of eclipse in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3968,7 +3968,7 @@
   },
   {
     "word": "Economical",
-    "meaning": "High-level vocabulary word meaning of economical.",
+    "meaning": "Giving good value or return in relation to the resources used; frugal.",
     "example": "We witnessed a clear representation of economical in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -3976,7 +3976,7 @@
   },
   {
     "word": "Ecstasy",
-    "meaning": "High-level vocabulary word meaning of ecstasy.",
+    "meaning": "An overwhelming feeling of great happiness or joyful excitement.",
     "example": "We witnessed a clear representation of ecstasy in their action.",
     "category": "emotional",
     "difficulty": "intermediate",
@@ -3984,7 +3984,7 @@
   },
   {
     "word": "Edify",
-    "meaning": "High-level vocabulary word meaning of edify.",
+    "meaning": "To instruct or improve someone morally or intellectually.",
     "example": "We witnessed a clear representation of edify in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -3992,7 +3992,7 @@
   },
   {
     "word": "Efface",
-    "meaning": "High-level vocabulary word meaning of efface.",
+    "meaning": "To erase a mark from a surface; to make oneself inconspicuous.",
     "example": "We witnessed a clear representation of efface in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4000,7 +4000,7 @@
   },
   {
     "word": "Effectual",
-    "meaning": "High-level vocabulary word meaning of effectual.",
+    "meaning": "Producing the intended result; adequate to accomplish a purpose.",
     "example": "We witnessed a clear representation of effectual in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -4008,7 +4008,7 @@
   },
   {
     "word": "Effervescent",
-    "meaning": "High-level vocabulary word meaning of effervescent.",
+    "meaning": "Giving off bubbles; vivacious and enthusiastic.",
     "example": "We witnessed a clear representation of effervescent in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -4016,7 +4016,7 @@
   },
   {
     "word": "Effete",
-    "meaning": "High-level vocabulary word meaning of effete.",
+    "meaning": "Affected, overrefined, and ineffectual; no longer effective.",
     "example": "We witnessed a clear representation of effete in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4024,7 +4024,7 @@
   },
   {
     "word": "Efficacious",
-    "meaning": "High-level vocabulary word meaning of efficacious.",
+    "meaning": "Successful in producing a desired or intended result; effective.",
     "example": "We witnessed a clear representation of efficacious in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -4032,7 +4032,7 @@
   },
   {
     "word": "Efficiency",
-    "meaning": "High-level vocabulary word meaning of efficiency.",
+    "meaning": "The state or quality of being efficient; doing something well with no wasted effort.",
     "example": "We witnessed a clear representation of efficiency in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -4040,7 +4040,7 @@
   },
   {
     "word": "Effrontery",
-    "meaning": "High-level vocabulary word meaning of effrontery.",
+    "meaning": "Insolent or impertinent behavior; shameless boldness.",
     "example": "We witnessed a clear representation of effrontery in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -4048,7 +4048,7 @@
   },
   {
     "word": "Egalitarian",
-    "meaning": "High-level vocabulary word meaning of egalitarian.",
+    "meaning": "Believing in or based on the principle that all people are equal and deserve equal rights.",
     "example": "We witnessed a clear representation of egalitarian in their action.",
     "category": "social",
     "difficulty": "advanced",
@@ -4056,7 +4056,7 @@
   },
   {
     "word": "Egoistic",
-    "meaning": "High-level vocabulary word meaning of egoistic.",
+    "meaning": "Excessively self-centered; driven primarily by self-interest.",
     "example": "We witnessed a clear representation of egoistic in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4064,7 +4064,7 @@
   },
   {
     "word": "Egregious",
-    "meaning": "High-level vocabulary word meaning of egregious.",
+    "meaning": "Outstandingly bad; shocking and offensive.",
     "example": "We witnessed a clear representation of egregious in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -4080,7 +4080,7 @@
   },
   {
     "word": "Elated",
-    "meaning": "High-level vocabulary word meaning of elated.",
+    "meaning": "Extremely happy and excited; in high spirits.",
     "example": "We witnessed a clear representation of elated in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4328,7 +4328,7 @@
   },
   {
     "word": "Eradicate",
-    "meaning": "High-level vocabulary word meaning of eradicate.",
+    "meaning": "To destroy completely; to put an end to something.",
     "example": "We witnessed a clear representation of eradicate in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -4336,7 +4336,7 @@
   },
   {
     "word": "Erode",
-    "meaning": "High-level vocabulary word meaning of erode.",
+    "meaning": "To gradually wear away or diminish; to destroy slowly over time.",
     "example": "We witnessed a clear representation of erode in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4344,7 +4344,7 @@
   },
   {
     "word": "Erratic",
-    "meaning": "High-level vocabulary word meaning of erratic.",
+    "meaning": "Not regular; unpredictable in behavior or appearance.",
     "example": "We witnessed a clear representation of erratic in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4352,7 +4352,7 @@
   },
   {
     "word": "Ersatz",
-    "meaning": "High-level vocabulary word meaning of ersatz.",
+    "meaning": "Made or used as a substitute, typically an inferior one; not genuine.",
     "example": "We witnessed a clear representation of ersatz in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4360,7 +4360,7 @@
   },
   {
     "word": "Escalate",
-    "meaning": "High-level vocabulary word meaning of escalate.",
+    "meaning": "To increase rapidly in intensity, extent, or importance.",
     "example": "We witnessed a clear representation of escalate in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4368,7 +4368,7 @@
   },
   {
     "word": "Esoteric",
-    "meaning": "High-level vocabulary word meaning of esoteric.",
+    "meaning": "Intended for or likely to be understood by only a small number of people with specialized knowledge.",
     "example": "We witnessed a clear representation of esoteric in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4376,7 +4376,7 @@
   },
   {
     "word": "Espouse",
-    "meaning": "High-level vocabulary word meaning of espouse.",
+    "meaning": "To adopt or support a cause, belief, or way of life; to marry.",
     "example": "We witnessed a clear representation of espouse in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4384,7 +4384,7 @@
   },
   {
     "word": "Esteem",
-    "meaning": "High-level vocabulary word meaning of esteem.",
+    "meaning": "Respect and admiration; to regard with respect and admiration.",
     "example": "We witnessed a clear representation of esteem in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4392,7 +4392,7 @@
   },
   {
     "word": "Ethereal",
-    "meaning": "High-level vocabulary word meaning of ethereal.",
+    "meaning": "Extremely delicate and light in a way that seems too perfect for this world; heavenly.",
     "example": "We witnessed a clear representation of ethereal in their action.",
     "category": "literary",
     "difficulty": "intermediate",
@@ -4400,7 +4400,7 @@
   },
   {
     "word": "Ethical",
-    "meaning": "High-level vocabulary word meaning of ethical.",
+    "meaning": "Relating to moral principles or the branch of knowledge dealing with these.",
     "example": "We witnessed a clear representation of ethical in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4408,7 +4408,7 @@
   },
   {
     "word": "Euphemism",
-    "meaning": "High-level vocabulary word meaning of euphemism.",
+    "meaning": "A mild or indirect word or expression substituted for one considered too harsh or blunt.",
     "example": "We witnessed a clear representation of euphemism in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -4416,7 +4416,7 @@
   },
   {
     "word": "Euphoric",
-    "meaning": "High-level vocabulary word meaning of euphoric.",
+    "meaning": "Characterized by or feeling intense excitement and happiness.",
     "example": "We witnessed a clear representation of euphoric in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4424,7 +4424,7 @@
   },
   {
     "word": "Evanescent",
-    "meaning": "High-level vocabulary word meaning of evanescent.",
+    "meaning": "Soon passing out of sight, memory, or existence; quickly fading.",
     "example": "We witnessed a clear representation of evanescent in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -4432,7 +4432,7 @@
   },
   {
     "word": "Evasive",
-    "meaning": "High-level vocabulary word meaning of evasive.",
+    "meaning": "Tending to avoid commitment or self-revelation; not straightforward.",
     "example": "We witnessed a clear representation of evasive in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4440,7 +4440,7 @@
   },
   {
     "word": "Exacerbate",
-    "meaning": "High-level vocabulary word meaning of exacerbate.",
+    "meaning": "To make a problem, bad situation, or negative feeling worse.",
     "example": "We witnessed a clear representation of exacerbate in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -4448,7 +4448,7 @@
   },
   {
     "word": "Exacting",
-    "meaning": "High-level vocabulary word meaning of exacting.",
+    "meaning": "Making great demands on one's skill, attention, or other resources; rigorous.",
     "example": "We witnessed a clear representation of exacting in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4456,7 +4456,7 @@
   },
   {
     "word": "Exalt",
-    "meaning": "High-level vocabulary word meaning of exalt.",
+    "meaning": "To hold in very high regard; to raise in rank or power.",
     "example": "We witnessed a clear representation of exalt in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4464,7 +4464,7 @@
   },
   {
     "word": "Exasperate",
-    "meaning": "High-level vocabulary word meaning of exasperate.",
+    "meaning": "To irritate and frustrate someone intensely.",
     "example": "We witnessed a clear representation of exasperate in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -4472,7 +4472,7 @@
   },
   {
     "word": "Exceed",
-    "meaning": "High-level vocabulary word meaning of exceed.",
+    "meaning": "To be greater than a number or amount; to go beyond what is expected.",
     "example": "We witnessed a clear representation of exceed in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4480,7 +4480,7 @@
   },
   {
     "word": "Excise",
-    "meaning": "High-level vocabulary word meaning of excise.",
+    "meaning": "To cut out surgically; to remove a section of text; an internal tax levied on goods.",
     "example": "We witnessed a clear representation of excise in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4488,7 +4488,7 @@
   },
   {
     "word": "Exculpate",
-    "meaning": "High-level vocabulary word meaning of exculpate.",
+    "meaning": "To show or declare that someone is not guilty of wrongdoing; to absolve.",
     "example": "We witnessed a clear representation of exculpate in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -4496,7 +4496,7 @@
   },
   {
     "word": "Exhaustive",
-    "meaning": "High-level vocabulary word meaning of exhaustive.",
+    "meaning": "Examining all parts or aspects thoroughly; complete and comprehensive.",
     "example": "We witnessed a clear representation of exhaustive in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -4504,7 +4504,7 @@
   },
   {
     "word": "Exhort",
-    "meaning": "High-level vocabulary word meaning of exhort.",
+    "meaning": "To strongly encourage or urge someone to do something.",
     "example": "We witnessed a clear representation of exhort in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4512,7 +4512,7 @@
   },
   {
     "word": "Exigent",
-    "meaning": "High-level vocabulary word meaning of exigent.",
+    "meaning": "Pressing and demanding; requiring immediate attention or action.",
     "example": "We witnessed a clear representation of exigent in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4520,7 +4520,7 @@
   },
   {
     "word": "Exonerate",
-    "meaning": "High-level vocabulary word meaning of exonerate.",
+    "meaning": "To officially absolve someone from blame or a criminal charge.",
     "example": "We witnessed a clear representation of exonerate in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -4528,7 +4528,7 @@
   },
   {
     "word": "Exotic",
-    "meaning": "High-level vocabulary word meaning of exotic.",
+    "meaning": "Originating in or characteristic of a distant foreign country; strikingly unusual or strange.",
     "example": "We witnessed a clear representation of exotic in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4536,7 +4536,7 @@
   },
   {
     "word": "Expansive",
-    "meaning": "High-level vocabulary word meaning of expansive.",
+    "meaning": "Covering a wide area; extensive; communicative and open.",
     "example": "We witnessed a clear representation of expansive in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -4544,7 +4544,7 @@
   },
   {
     "word": "Expedite",
-    "meaning": "High-level vocabulary word meaning of expedite.",
+    "meaning": "To make an action or process happen more quickly; to speed up.",
     "example": "We witnessed a clear representation of expedite in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4552,7 +4552,7 @@
   },
   {
     "word": "Expeditious",
-    "meaning": "High-level vocabulary word meaning of expeditious.",
+    "meaning": "Done with speed and efficiency; quick and prompt.",
     "example": "We witnessed a clear representation of expeditious in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -4560,7 +4560,7 @@
   },
   {
     "word": "Expel",
-    "meaning": "High-level vocabulary word meaning of expel.",
+    "meaning": "To force someone to leave a place or organization; to drive out.",
     "example": "We witnessed a clear representation of expel in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4568,7 +4568,7 @@
   },
   {
     "word": "Expendable",
-    "meaning": "High-level vocabulary word meaning of expendable.",
+    "meaning": "Of little significance when compared to an overall purpose; able to be used up.",
     "example": "We witnessed a clear representation of expendable in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -4576,7 +4576,7 @@
   },
   {
     "word": "Expert",
-    "meaning": "High-level vocabulary word meaning of expert.",
+    "meaning": "A person who is very knowledgeable about or skillful in a particular area.",
     "example": "We witnessed a clear representation of expert in their action.",
     "category": "academic",
     "difficulty": "intermediate",
@@ -4584,7 +4584,7 @@
   },
   {
     "word": "Expletive",
-    "meaning": "High-level vocabulary word meaning of expletive.",
+    "meaning": "An oath or swear word; a word or phrase used to fill out a sentence without adding meaning.",
     "example": "We witnessed a clear representation of expletive in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -4592,7 +4592,7 @@
   },
   {
     "word": "Explicate",
-    "meaning": "High-level vocabulary word meaning of explicate.",
+    "meaning": "To analyze and develop an idea or principle in detail; to explain.",
     "example": "We witnessed a clear representation of explicate in their action.",
     "category": "academic",
     "difficulty": "advanced",
@@ -4600,7 +4600,7 @@
   },
   {
     "word": "Explicit",
-    "meaning": "High-level vocabulary word meaning of explicit.",
+    "meaning": "Stated clearly and in detail, leaving no room for confusion or doubt.",
     "example": "We witnessed a clear representation of explicit in their action.",
     "category": "academic",
     "difficulty": "intermediate",
