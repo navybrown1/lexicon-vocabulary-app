@@ -4792,10 +4792,19 @@
   }
 ];
 
+  // ─── Helpers ───
+  function shuffleArray(arr) {
+    for (let i = arr.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [arr[i], arr[j]] = [arr[j], arr[i]];
+    }
+    return arr;
+  }
+
   // ─── State ───
   let currentIndex = 0;
   let seenIndices = new Set();
-  let filteredWords = [...vocabulary];
+  let filteredWords = shuffleArray([...vocabulary]);
   let quizQuestions = [];
   let quizIndex = 0;
   let quizScore = 0;
@@ -4969,13 +4978,13 @@
     const search = els.searchInput.value.toLowerCase().trim();
     const category = els.categoryFilter.value;
 
-    filteredWords = vocabulary.filter(w => {
+    filteredWords = shuffleArray(vocabulary.filter(w => {
       const matchesSearch = !search ||
         w.word.toLowerCase().includes(search) ||
         w.meaning.toLowerCase().includes(search);
       const matchesCategory = category === 'all' || w.category === category;
       return matchesSearch && matchesCategory;
-    });
+    }));
 
     currentIndex = 0;
     
